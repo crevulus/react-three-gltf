@@ -1,17 +1,20 @@
-import React from "react";
+import React, { Suspense } from "react";
+
+import Header from "./components/Header";
+
 import "./App.scss";
-//Components
-import Header from "./components/header";
+import { Canvas } from "@react-three/fiber";
+import HtmlContent from "./components/HtmlContent";
 
 export default function App() {
   return (
     <>
       <Header />
-      <div className="container">
-        <div className="title">
-          <h1>Starter Branch</h1>
-        </div>
-      </div>
+      <Canvas colorManagement camera={{ postion: [0, 0, 120], fov: 150 }}>
+        <Suspense fallback={null}>
+          <HtmlContent />
+        </Suspense>
+      </Canvas>
     </>
   );
 }

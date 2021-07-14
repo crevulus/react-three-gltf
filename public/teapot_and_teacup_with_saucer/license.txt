@@ -1,0 +1,11 @@
+Model Information:
+* title:	Teapot and Teacup with saucer
+* source:	https://sketchfab.com/3d-models/teapot-and-teacup-with-saucer-394991e9fee141feb7d2498b7665286d
+* author:	keeganwalden (https://sketchfab.com/keeganwalden)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Teapot and Teacup with saucer" (https://sketchfab.com/3d-models/teapot-and-teacup-with-saucer-394991e9fee141feb7d2498b7665286d) by keeganwalden (https://sketchfab.com/keeganwalden) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
