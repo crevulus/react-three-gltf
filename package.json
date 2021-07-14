@@ -10,6 +10,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "drei": "^2.2.21",
     "lerp": "^1.0.3",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
@@ -17,6 +18,7 @@
     "react-intersection-observer": "^8.28.5",
     "react-scripts": "3.4.3",
     "react-spring": "^8.0.27",
+    "react-three-fiber": "^6.0.13",
     "three": "^0.130.1"
   },
   "scripts": {

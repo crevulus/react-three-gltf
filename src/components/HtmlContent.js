@@ -7,8 +7,8 @@ import Model from "./Model";
 export default function HtmlContent() {
   return (
     <Section factor={1.5} offset={0}>
-      <group position={[0, 0, 0]}>
-        <mesh position={[0, 0, 0]}>
+      <group position={[0, 0, -180]}>
+        <mesh position={[0, -30, 0]}>
           <Model />
         </mesh>
         <Html fullscreen>
